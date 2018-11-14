@@ -4,7 +4,7 @@ about: Creer un rapport de bug
 
 ---
 
-**Version easygind**
+**Version easygrind**
 ex : 5.16, 6.0, 6.3+ (+ = "à partir de")
 
 **Client**
