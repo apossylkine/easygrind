@@ -1,6 +1,7 @@
 ---
 name: Rapport de bug
 about: Creer un rapport de bug
+labels: 
 
 ---
 
